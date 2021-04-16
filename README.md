@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil Pinas</h1>
 <h3 align="center">A highly motivated student looking for a new challenges in IT world</h3>
-
+<br><br>
 - 🌱 I’m currently learning **Spring,React,Unit tests**
 
 - 🎓 I'm going to graduate in **2022**

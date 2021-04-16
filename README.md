@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamil Pinas</h1>
+<h1 align="center">Hi 👋, I am Kamil Pinas</h1>
 <h3 align="center">A highly motivated student looking for a new challenges in IT world</h3>
 <h4 align="center">Throughout my education, I have demonstrated high levels of motivation,work ethic and teamwork to achieve my predicted grades. I wish to utilise these skills to work with customers and satisfy their needs</h4><br><br>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h4 align="left">I'm feeling good at:</h4>
+<h4 align="left">I am feeling good at:</h4>
 <a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a>
@@ -30,8 +30,6 @@
 <a href=""><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-
-
 
 <h4 align="left">I also know basics of :</h4>
 <a href=""><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></a>

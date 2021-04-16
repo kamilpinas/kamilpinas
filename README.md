@@ -2,13 +2,11 @@
 <h3 align="center">A highly motivated student looking for a new challenges in IT world</h3>
 <h4 align="center">Throughout my education, I have demonstrated high levels of motivation,work ethic and teamwork to achieve my predicted grades. I wish to utilise these skills to work with customers and satisfy their needs</h4><br><br>
 
-- 🌱 I’m currently learning **Spring,React,Unit tests**
+- 🎓 I'm going to graduate in **2022**
 
 - 💻 I'm using **IntelliJ | Android Studio**
 
-- 🎓 I'm going to graduate in **2022**
-
-- 📫 How to reach me **kamilpinas@gmail.com**
+- 📫 Reach me at :  **kamilpinas@gmail.com**
 <br>
 
 <h3 align="left">Connect with me:</h3>

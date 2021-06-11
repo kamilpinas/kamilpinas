@@ -4,7 +4,7 @@
 
 - 🎓 I'm going to graduate in **2022**
 
-- 💻 I'm using **IntelliJ | Android Studio**
+- 💻 I'm using **Visual Studio Code | IntelliJ | Android Studio**
 
 - 📫 Reach me at :  **kamilpinas@gmail.com**
 <br>

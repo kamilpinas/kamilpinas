@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I am Kamil Pinas</h1>
-<h3 align="center">A highly motivated student looking for first-time position and new challenges in IT world..</h3>
-<h4 align="center">Throughout my education, I have demonstrated high levels of motivation,work ethic and teamwork to achieve my predicted grades. I wish to utilise these skills to work with customers and satisfy their needs</h4><br><br>
+<h3 align="center">Front-end developer..</h3>
+<h4 align="center">TypeScript React Redux</h4><br><br>
 
-- 🎓 I'm going to graduate in **2022**
+- 🎓 Graduated in **2022**
 
-- 💻 I'm using **Visual Studio Code | IntelliJ | Android Studio**
+- 💻 I'm using **Visual Studio Code | Android Studio**
 
 - 📫 Reach me at :  **kamilpinas@gmail.com**
 <br>
@@ -18,21 +18,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h4 align="left">I am feeling good at:</h4>
-<span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></span>
+<h4 align="left">Currently using:</h4>
+<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></span>
-<span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></span>
 
-<h4 align="left">I also know basics of :</h4>
-<span><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></span>
+<h4 align="left">I am feeling good at:</h4>
 <span><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></span>
+<span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></span>
+
+
 
 
 

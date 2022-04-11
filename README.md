@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I am Kamil Pinas</h1>
 <h3 align="center">Front-end developer</h3>
-<h4 align="center">TypeScript React Redux</h4><br><br>
+<h4 align="center">TypeScript React Redux</h4>
 <h5 align="center">Check my non-commercial projects</h4><br><br>
+
 - 🎓 Graduated in **2022**
 
 - 💻 I'm using **Visual Studio Code | Android Studio**
